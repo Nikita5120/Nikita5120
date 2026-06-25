@@ -1,59 +1,40 @@
-# Nikita Singh — Data Analyst & Analytics Engineer
+# Nikita Singh
 
-Final-year IT graduate building production-grade data systems.
+I'm a data analyst who builds systems, not just dashboards.
+
+Most of my work lives at the intersection of analytics engineering,
+AI orchestration, and business decision-making — turning messy,
+unstructured data into something a stakeholder can actually act on.
+
 Currently interning at Cognizant as a Data Reporting Analyst.
+Final-year IT graduate from RCOEM, Nagpur. CGPA 8.4/10.
+Actively looking for Data Analyst roles.
 
 ---
 
-## What I build
+## What I actually do
 
-End-to-end analytics platforms — from raw data ingestion to 
-business-ready insights. My projects are not tutorials or 
-assignments; they are systems I designed to solve real problems.
+I don't build toy projects to learn a library.
+I pick a real problem, design a system around it, and build
+until it works the way a production system should.
 
----
+That means schema contracts. Audit logs. Reproducible pipelines.
+Forecasting models that run on real data. OCR microservices
+that deploy on serverless infrastructure. AI control planes
+with stateless, fault-tolerant agents.
 
-## Projects
-
-**[MiraiMart](https://github.com/Nikita5120/miraimart)** — Retail Intelligence & Demand Forecasting  
-Analyzed 178K+ transactions, measured campaign ROI, built KPI 
-dashboards, and automated 12-month demand forecasting using Prophet.  
-`Python` `SQL` `Power BI` `Prophet`
-
-**[ANIS](https://github.com/Nikita5120/ANIS)** — Autonomous AI Factory Controller  
-Production-grade AI control plane orchestrating data pipelines 
-via Custom GPT, n8n, and a RAW→CLEAN→GOLD data lake with full 
-auditability and schema-driven execution.  
-`Custom GPT` `n8n` `OpenAPI` `Google Workspace` `Vercel`
-
-**[PolyFlow Nexus](https://github.com/Nikita5120/PolyFlow-Nexus)** — Autonomous Data Platform  
-LLM-powered orchestration with OCR document intelligence, 
-workflow automation, and enterprise data lake management 
-with end-to-end lineage and monitoring.  
-`Python` `LLMs` `OCR` `Data Lake`
-
-**[PharmaLaunchSim](https://github.com/Nikita5120/PharmaLaunchSim)** — Drug Launch Forecasting  
-10,000+ Monte Carlo simulations to model commercial risk 
-across pricing, market share, and epidemiology assumptions. 
-P10/P50/P90 revenue benchmarks via Streamlit dashboard.  
-`Python` `NumPy` `SciPy` `Plotly` `Streamlit`
-
-**[InsuranceModel](https://github.com/Nikita5120/InsuranceModel)** — Fraud Detection Pipeline  
-NLP-based anomaly isolation across 10K+ insurance documents. 
-Reduced false-positive rates by 18%, cut manual review by 40%.  
-`Python` `BERT` `FastAPI` `SQL`
+If it's on my GitHub, it was built to solve something —
+not to check a box on a resume.
 
 ---
 
-## Stack
+## What I'm good at
 
-| Layer | Tools |
-|---|---|
-| Analytics & BI | Python, SQL, Power BI, Tableau |
-| ML & Forecasting | Scikit-Learn, Prophet, NumPy, SciPy |
-| Data Engineering | PySpark, PostgreSQL, MySQL, MongoDB |
-| AI & Orchestration | Custom GPT, n8n, OpenAPI, LLMs |
-| Cloud & Infra | AWS (EC2, S3), Vercel, Docker |
+Analytics & BI — Python, SQL, Power BI, Tableau  
+ML & Forecasting — Scikit-Learn, Prophet, regression, Monte Carlo  
+Data Engineering — PySpark, PostgreSQL, MySQL, MongoDB  
+AI & Orchestration — Custom GPT, n8n, OpenAPI, BERT, LLMs  
+Cloud & Infra — AWS (EC2, S3), Vercel, Docker  
 
 ---
 
@@ -64,8 +45,8 @@ Generative AI & LLM Fundamentals
 
 ---
 
-## Contact
+## Let's talk
 
 singh502nikita@gmail.com  
-[LinkedIn](https://linkedin.com/in/nikita-singh-5866a4256) | 
+[LinkedIn](https://linkedin.com/in/nikita-singh-5866a4256) ·
 [Portfolio](https://nikita-portfolio-wine.vercel.app)
